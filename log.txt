@@ -1,0 +1,12 @@
+D/MtaManager: [init] apk copy start
+E/MtaManager: [init] apk copy failed
+D/MtaManager: [init] no apk, failed
+D/AcceleratorManager: [initLibrary] load library1 succeed
+D/AcceleratorManager: [initLibrary] load library2 succeed
+D/AcceleratorManager: [initLibrary] app cert is 08C424D49777D5A45AFB89A06DA6F798
+D/AcceleratorManager: [initLibrary] app digest is ZTU3NTExZjExOGRjMThhMjU4M2MxYmRiYTAzODEwODk4YWMzYzk1N2EyYTRiYzBiNzRjNTliZjkxZmU3NDAyZGQ1MmQzYmM3ZDY3YzQ4MWYwZGVkYjA5ZDMzNzhkZDM2
+D/AcceleratorManager: [initLibrary] native init done
+D/AccPlugin: [onCreate] register api action succeeded: com.x8.api.com.higgs.domino.action.acc
+D/FloatWindowManager: [onCreate] register api action succeeded: com.x8.api.com.higgs.domino.action.bm
+D/AcceleratorManager: [initLibrary] hook type is 1
+D/PluginModel: [isNetworkOK] OK
